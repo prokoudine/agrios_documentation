@@ -38,7 +38,7 @@ html_theme_options = {
     "source_repository": "https://github.com/advanceinsight/agrios_documentation/",
     "source_branch": "main",
     "source_directory": "docs/source/",
-    "light_css_variables" : {"color-brand-primary" : "#002f87"}, "dark_css_variables" : {"color-brand-primary" : "#00a7e1"}
+    "light_css_variables" : {"color-brand-primary" : "#738700"}, "dark_css_variables" : {"color-brand-primary" : "#e17f00"}
     }
 
 
