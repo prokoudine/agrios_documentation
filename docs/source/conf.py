@@ -35,5 +35,13 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 
+html_context = {
+    "display_github": True,          # show the “Edit on GitHub” link
+    "github_user": "advanceinsight", # ⬅️ your GitHub org/user
+    "github_repo": "AgriOS",         # ⬅️ your repo
+    "github_version": "main",        # branch
+    "conf_py_path": "/docs/source",        # path to your docs root, WITH trailing slash
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

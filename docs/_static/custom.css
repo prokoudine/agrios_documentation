@@ -1,10 +1,16 @@
-/* Example: change link and header colours */
-:root {
-    --color-brand-primary: #1d8649; /* custom green */
-    --color-brand-content: #1d8649;
+/* Change Read the Docs theme primary colour (sidebar + header) */
+.wy-side-nav-search,
+.wy-nav-top {
+    background: #1d8649 !important;  /* your green */
 }
 
-/* Change body font */
-/* body {
-    font-family: "Inter", "Open Sans", sans-serif;
-} */
+/* Adjust link colour (optional) */
+a {
+    color: #1d8649;
+}
+
+/* Change hover/focus states if desired */
+a:hover,
+a:focus {
+    color: #146636;
+}
