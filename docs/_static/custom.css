@@ -1,0 +1,10 @@
+/* Example: change link and header colours */
+:root {
+    --color-brand-primary: #1d8649; /* custom green */
+    --color-brand-content: #1d8649;
+}
+
+/* Change body font */
+/* body {
+    font-family: "Inter", "Open Sans", sans-serif;
+} */
