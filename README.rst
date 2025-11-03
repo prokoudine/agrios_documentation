@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+The Official AgriOS Documentation!
 =======================================
 
 This GitHub template includes fictional Python library
