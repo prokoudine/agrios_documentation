@@ -1,6 +1,5 @@
 /* Change Read the Docs theme primary colour (sidebar + header) */
-.wy-side-nav-search,
-.wy-nav-top {
+.wy-side-nav-search {
     background: #1d8649 !important;  /* your green */
 }
 
