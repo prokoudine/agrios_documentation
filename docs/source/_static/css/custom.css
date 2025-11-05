@@ -22,3 +22,16 @@ html[data-theme="dark"] .content h4 {
 
 /* Keep the ¶ anchor proportional */
 main .content .headerlink { font-size: 0.7em; }
+
+/* Light-mode (explicit, so dark can't win by order) */
+html[data-theme="light"] .content :is(h1,h2,h3,h4) {
+  color: #458A77 !important;
+}
+
+/* Dark-mode: higher specificity + covers page title outside .content */
+html[data-theme="dark"] body .content :is(h1,h2,h3,h4),
+html[data-theme="dark"] body main header h1,
+html[data-theme="dark"] body .page .header h1 {
+  color: #5FD0B0 !important;
+}
+
