@@ -22,6 +22,10 @@ Contents
    user/usage
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Database Management
+
+.. toctree::
    :maxdepth: 2
    :caption: Developer Guide
 
