@@ -34,6 +34,9 @@ html_theme = 'furo'
 # html_static_path = ["_static"]
 # html_css_files = ["custom.css"]
 
+# FURO CSS
+# https://github.com/pradyunsg/furo/tree/main/src/furo/assets/styles/variables
+
 html_theme_options = {
     "source_repository": "https://github.com/advanceinsight/agrios_documentation/",
     "source_branch": "main",

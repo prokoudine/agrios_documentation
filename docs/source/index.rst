@@ -21,6 +21,14 @@ Contents
    user/installation
    user/usage
 
+
+.. toctree::   
+   :maxdepth: 2
+   :caption: Database Management
+
+   database/hosting
+   database/version
+
 .. toctree::
    :maxdepth: 1
    :caption: Database Management
@@ -36,6 +44,9 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Other
+   :caption: Partners
+
+   partner/advance_insight
+   partner/small_foundation
 
    changelog
