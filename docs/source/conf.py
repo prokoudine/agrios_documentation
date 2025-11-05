@@ -41,6 +41,8 @@ html_theme_options = {
     "source_repository": "https://github.com/advanceinsight/agrios_documentation/",
     "source_branch": "main",
     "source_directory": "docs/source/",
+    "light_logo": "logo-light-mode.png",
+    "dark_logo": "logo-dark-mode.png",
     "light_css_variables" : {
         "color-brand-primary" : "#6b6f76",
         "color-sidebar-caption-text" : "#458A77",
