@@ -6,18 +6,16 @@ html::before {
 }
 
 /* Sizes */
-h1 { font-size: 1.4rem !important; line-height: 1.25; }
-h2 { font-size: 1.2rem !important; line-height: 1.30; }
-h3 { font-size: 1.05rem !important; line-height: 1.35; }
-h4 { font-size: 1.0rem !important; line-height: 1.40; }
+.content h1 { font-size: 1.4rem !important; line-height: 1.25; }
+.content h2 { font-size: 1.2rem !important; line-height: 1.30; }
+.content h3 { font-size: 1.05rem !important; line-height: 1.35; }
+.content h4 { font-size: 1.0rem !important; line-height: 1.40; }
 
 /* Colour */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
   color: #458A77 !important;
 }
 
