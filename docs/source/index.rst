@@ -20,6 +20,7 @@ Contents
    user/introduction
    user/installation
    user/usage
+   user/header
 
 
 .. toctree::   
