@@ -1,8 +1,6 @@
 
 Odoo
 ============
-Odoo
-============
 
 Odoo is available in two main editions: Community and Enterprise. The Community edition is open-source and
 freely available, providing a solid foundation for business management with essential features and modules.
