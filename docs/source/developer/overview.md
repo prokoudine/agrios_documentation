@@ -191,10 +191,9 @@ Find further help via:
 
 Provide links to external documentation, tutorials, and community forums.
 
-- [Project Repository](https://github.com/your-org/your-project)
+- [Project Repository](https:pending)
 - [Framework Documentation](https://docs.djangoproject.com/)
-- [Community Forum](https://community.example.com)
+- [Community Forum](https:pending)
 
 ---
 
-This template is intended to be a starting point. Expand each section with project-specific details, diagrams, and examples to create a thorough and useful developer overview.
