@@ -6,8 +6,6 @@ Contents
 --------
 
 ```{toctree}
-:maxdepth: 2
-:caption: Installation
 
 user/installation/installation_1
 user/installation/installation_2
