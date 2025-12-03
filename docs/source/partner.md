@@ -1,5 +1,7 @@
 # Partners
 
+Something about partners
+
 Contents
 --------
 
