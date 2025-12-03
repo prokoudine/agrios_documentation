@@ -1,4 +1,3 @@
-:show-toc:
 
 ============
 Installation
@@ -10,6 +9,8 @@ Contents
 --------
 
 .. toctree::
+    :maxdepth: 3
+    :caption: Installation
 
     user/installation/installation_1
     user/installation/installation_2

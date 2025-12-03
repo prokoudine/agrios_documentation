@@ -1,3 +1,5 @@
+
+===================================
 AgriOS documentation
 ===================================
 
@@ -14,6 +16,7 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: User Guide
 
@@ -24,6 +27,7 @@ Contents
 
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Database Management
 
@@ -31,6 +35,7 @@ Contents
    database/version
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Developer Guide
 
@@ -40,10 +45,11 @@ Contents
    developer/agrios_modules
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
    :caption: Partners
 
    partner/advance_insight
    partner/small_foundation
 
-   changelog
+changelog
