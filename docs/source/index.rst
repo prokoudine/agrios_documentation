@@ -18,9 +18,14 @@ Contents
 .. toctree::
    :hidden:
    :maxdepth: 3
+
+   introduction
+
+.. toctree::
+   :hidden:
+   :maxdepth: 3
    :caption: User Guide
 
-   user/introduction
    user/installation
    user/usage
    user/heading
@@ -57,6 +62,7 @@ Contents
    :caption: Other
 
    other/changelog
+   other/roadmap
    
 
 

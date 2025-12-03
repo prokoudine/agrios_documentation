@@ -1,6 +1,15 @@
 # Odoo Community Association
 
-AgriOS relies on a range of modules from the Odoo Community Association (OCA) to extend its functionality and provide robust features for agricultural management. The OCA is a collaborative community that develops high-quality, open-source modules for Odoo, enhancing its core capabilities and supporting best practices.
+AgriOS relies on a range of modules from the Odoo Community Association (OCA) to extend its functionality and provide robust features for agricultural management.
+
+OCA modules are widely recognized for their reliability, community support, and adherence to Odoo development standards. By integrating these modules, AgriOS benefits from:
+
+- Enhanced reporting and accounting features
+- Improved usability and user experience
+- Advanced partner and contact management
+- Flexible utilities for data export and date handling
+
+AgriOS continues to leverage the OCA ecosystem to deliver a comprehensive and adaptable solution for agricultural businesses.
 
 ## Key OCA Modules Used in AgriOS
 
@@ -25,11 +34,4 @@ AgriOS relies on a range of modules from the Odoo Community Association (OCA) to
 
 ## Why OCA Modules?
 
-OCA modules are widely recognized for their reliability, community support, and adherence to Odoo development standards. By integrating these modules, AgriOS benefits from:
 
-- Enhanced reporting and accounting features
-- Improved usability and user experience
-- Advanced partner and contact management
-- Flexible utilities for data export and date handling
-
-AgriOS continues to leverage the OCA ecosystem to deliver a comprehensive and adaptable solution for agricultural businesses.
