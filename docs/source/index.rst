@@ -26,7 +26,13 @@ This documentation is broken down in five main sections:
    :maxdepth: 3
    :caption: User Guide
 
-   user/heading
+   user/introduction
+   user/farmers
+   user/sales
+   user/purchase
+   user/inventory
+   user/accounting
+   user/manufacturing
    user/user_faq
 
 .. toctree::
