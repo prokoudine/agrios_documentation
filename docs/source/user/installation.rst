@@ -7,6 +7,6 @@ Contents
 
 .. toctree::
 
-user/installation/installation_1
-user/installation/installation_2
-user/installation/installation_2
+    user/installation/installation_1
+    user/installation/installation_2
+    user/installation/installation_3
